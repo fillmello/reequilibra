@@ -24,7 +24,7 @@ A documentação do projeto é estruturada da seguinte forma:
 6. Solução
 7. Referências Bibliográficas
 
-✅ [Documentação de Todas as Etapas até Abril (MIRO)](../docs/files/MiroAbril.pdf)
+✅ [Documentação de Todas as Etapas até Abril (MIRO)](docs/files/MiroAbril.pdf)
 
 # Contexto
 
@@ -58,16 +58,16 @@ O grupo trabalhar com a saúde mental dos jovens porque essa é uma fase cheia d
 
 ## Etapa de Entendimento
 
-**![Entrevistas e Highlights](../docs/images/EntrevistaHighlight.png)**
-**![Matriz CSD e Stakeholders](../docs/images/MatrizAlinhamentoStakeholder.png)**
+**![Entrevistas e Highlights](docs/images/EntrevistaHighlight.png)**
+**![Matriz CSD e Stakeholders](docs/images/MatrizAlinhamentoStakeholder.png)**
 
 ## Etapa de Definição
 
 ### Personas
 
-**![Persona 1](../docs/images/persona1.png)**
-**![Persona 2](../docs/images/persona2.png)**
-**![Persona 3](../docs/images/persona3.png)**
+**![Persona 1](docs/images/persona1.png)**
+**![Persona 2](docs/images/persona2.png)**
+**![Persona 3](docs/images/persona3.png)**
 
 # Product Design
 
@@ -86,7 +86,7 @@ Com base na análise das personas foram identificadas as seguintes histórias de
 
 ## Proposta de Valor
 
-**![Propostas de Valor](../docs/images/PropValor.png)**
+**![Propostas de Valor](docs/images/PropValor.png)**
 
 ## Requisitos
 
@@ -134,14 +134,14 @@ Artefatos relacionados com a interface e a interação do usuário na proposta d
 
 Estes são os protótipos de telas do sistema.
 
-**![Wireframe1](../docs/images/Page.png)**
-**![Wireframe2](../docs/images/Login.png)**
-**![Wireframe3](../docs/images/UserPage2.png)**
-**![Wireframe4](../docs/images/UserPage1.png)**
+**![Wireframe1](docs/images/Page.png)**
+**![Wireframe2](docs/images/Login.png)**
+**![Wireframe3](docs/images/UserPage2.png)**
+**![Wireframe4](docs/images/UserPage1.png)**
 
 ### User Flow
 
-**![UserFlow](../docs/images/UserFlow.png)**
+**![UserFlow](docs/images/UserFlow.png)**
 
 ### Protótipo Interativo
 
@@ -170,7 +170,7 @@ Relação de ferramentas empregadas pelo grupo durante o projeto.
 
 Divisão de papéis no grupo e apresentação da estrutura da ferramenta de controle de tarefas (Kanban).
 
-![Divisão de Papéis](../docs/images/DivisaoDePapeis.webp)
+![Divisão de Papéis](docs/images/DivisaoDePapeis.webp)
 
 Os integrantes do grupo participaram ativamente, cada um com base em suas funções designadas. A metodologia abordada pelo grupo partiu do estudo das dores dos futuros consumidores e evoluiu em sessões de Brainstorming para discussão de métodos para atenuar essas questões. O grupo se reuniu antes de cada sprint e delegou tarefas individuais e coletivas para cada etapa do processo, tendo como base a metodologia ágil "Scrum".
 
@@ -182,7 +182,7 @@ Atendimento com psicólogos, fórum para suprir um dos principais agravadores de
 
 O vídeo a seguir traz uma apresentação do problema que a equipe está tratando e a proposta de solução. ⚠️ EXEMPLO ⚠️
 
-[![Introdução do Projeto](../docs/images/video.png)](https://youtu.be/k_xMXx6a1Q8)
+[![Introdução do Projeto](docs/images/video.png)](https://youtu.be/k_xMXx6a1Q8)
 
 ## Funcionalidades
 
