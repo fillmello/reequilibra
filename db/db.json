@@ -1,0 +1,19 @@
+{
+    "diario":[
+        {
+            "id": 1,
+            "data": "2023-10-01",
+            "titulo": "Meu primeiro dia de trabalho",
+            "texto": "Hoje foi meu primeiro dia de trabalho na nova empresa. Estou animado com os desafios que virão.",
+            "sentimento": "Feliz"
+        },
+        {
+            "id": 2,
+            "data": "2023-10-02",
+            "titulo": "Aprendendo novas tecnologias",
+            "texto": "Hoje aprendi sobre uma nova tecnologia que pode ser muito útil para o meu trabalho.",
+            "sentimento": "Animado"
+        }
+    ]
+
+}
